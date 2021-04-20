@@ -1,0 +1,20 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+#form-observation {
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.form-observation-inputs {
+  margin: 10px;
+}
+
+.form-observation-text {
+  margin-left: 10px;
+}
+
+.asterix {
+  color: red;
+}
